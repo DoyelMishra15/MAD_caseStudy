@@ -31,7 +31,7 @@ This repo will serve as a **central hub** for:
 - **Languages:** Java or Kotlin  
 - **UI:** XML  
 - **IDE:** Android Studio  
-- **Others:** Firebase (if used), SQLite, Git  
+- **Others:** Firebase, SQLite, Git  
 
 ---
 
@@ -45,7 +45,6 @@ This repo will serve as a **central hub** for:
 ## 🗂️ Repo Structure (To be created)
 
 ```bash
-.
 ├── app/                   # Source code for the mobile app
 ├── assets/                # Screenshots, logos, media
 ├── docs/                  # Weekly logs, wireframes, etc.
