@@ -1,16 +1,20 @@
 name-template: '🚀 Release v$NEXT_PATCH_VERSION'
 tag-template: 'v$NEXT_PATCH_VERSION'
+
 categories:
   - title: '✨ Features'
-    labels:
-      - 'feature'
+    labels: ['feature']
   - title: '🐛 Bug Fixes'
-    labels:
-      - 'bug'
+    labels: ['bug']
   - title: '🧰 Maintenance'
-    labels:
-      - 'chore'
+    labels: ['chore']
+  - title: '📝 Documentation'
+    labels: ['docs']
+  - title: '⚙️ Refactoring'
+    labels: ['refactor']
+
 change-template: '- $TITLE (#$NUMBER)'
+
 template: |
   ## What's Changed
 
