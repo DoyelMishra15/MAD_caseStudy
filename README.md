@@ -35,6 +35,13 @@ This repo will serve as a **central hub** for:
 
 ---
 
+## 👩‍💻 Maintainer
+- **Doyel Mishra**
+- 🎓 B.Tech CSE, C.V. Raman Global University  
+- 📫 [LinkedIn](https://www.linkedin.com/in/doyel-mishra) | [GitHub](https://github.com/doyelmishra)
+
+---
+
 ## 🗂️ Repo Structure (To be created)
 
 ```bash
