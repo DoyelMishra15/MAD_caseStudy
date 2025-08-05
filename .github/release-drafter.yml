@@ -1,23 +1,28 @@
-name-template: '🚀 Release v$NEXT_PATCH_VERSION'
-tag-template: 'v$NEXT_PATCH_VERSION'
+name-template: "🚀 Semester Log - v$NEXT_PATCH_VERSION"
+tag-template: "v$NEXT_PATCH_VERSION"
 
 categories:
-  - title: '✨ Features'
-    labels: ['feature']
-  - title: '🐛 Bug Fixes'
-    labels: ['bug']
-  - title: '🧰 Maintenance'
-    labels: ['chore']
-  - title: '📝 Documentation'
-    labels: ['docs']
-  - title: '⚙️ Refactoring'
-    labels: ['refactor']
+  - title: "✨ Features"
+    labels:
+      - "feature"
+  - title: "🐛 Bug Fixes"
+    labels:
+      - "bug"
+  - title: "📝 Documentation"
+    labels:
+      - "documentation"
+  - title: "🛠️ Chores"
+    labels:
+      - "chore"
 
-change-template: '- $TITLE (#$NUMBER)'
+change-template: "- $TITLE @$AUTHOR (#$NUMBER)"
 
 template: |
   ## What's Changed
 
   $CHANGES
 
-  **Thanks to all contributors! 🙌**
+  ## Maintainer
+  - Doyel Mishra (🎓 B.Tech CSE, CVRGU)
+
+  📫 [GitHub](https://github.com/doyelmishra) | [LinkedIn](https://www.linkedin.com/in/doyelmishra/)
