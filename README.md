@@ -35,6 +35,12 @@ This repo will serve as a **central hub** for:
 
 ---
 
+## 🛫 Airplane Dimension Generator
+
+This project focuses on creating a mobile app that generates airplane dimensions based on user requirements. It also includes 3D visualization of the airplane model, allowing interactive rotation, scaling, and basic animations, giving a game-like experience within the app. The app is developed using Kotlin and Android Studio.
+
+---
+
 ## 👩‍💻 Maintainer
 - **Doyel Mishra**
 - 🎓 B.Tech CSE, C.V. Raman Global University  
@@ -50,4 +56,3 @@ This repo will serve as a **central hub** for:
 ├── docs/                  # Weekly logs, wireframes, etc.
 ├── report/                # Final case study report
 ├── README.md              # Project info (you’re here!)
-
