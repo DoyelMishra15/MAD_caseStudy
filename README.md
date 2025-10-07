@@ -45,7 +45,7 @@ This project focuses on creating a mobile app that generates airplane dimensions
 
 - **Doyel Mishra**  
   🎓 B.Tech CSE, C.V. Raman Global University  
-  📫 [LinkedIn](www.linkedin.com/in/doyel-mishra-80932128b) | [GitHub](https://github.com/doyelmishra)
+  📫 [LinkedIn](www.linkedin.com/in/doyel-mishra-80932128b) | [GitHub](https://github.com/DoyelMishra15)
 
 - **Aishwarya Priyadarshini**  
   🎓 B.Tech CSE, C.V. Raman Global University  
@@ -63,7 +63,7 @@ This project focuses on creating a mobile app that generates airplane dimensions
 
 ## 📝 Registration Numbers
 
-| Name                     | Registration Number |
+| Name                     |RegistrationNumber|
 |--------------------------|------------------|
 | Doyel Mishra             | 527              |
 | AIshwarya Priyadarshini  | 488              |
