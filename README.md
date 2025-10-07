@@ -43,23 +43,33 @@ This project focuses on creating a mobile app that generates airplane dimensions
 
 ## 👩‍💻 Maintainers
 
-- **Doyel Mishra**
-  230
+- **Doyel Mishra**  
   🎓 B.Tech CSE, C.V. Raman Global University  
   📫 [LinkedIn](https://www.linkedin.com/in/doyel-mishra) | [GitHub](https://github.com/doyelmishra)
 
-- **AIshwarya Priyadarshini**
-  🎓 B.Tech CSE, C.V. Raman Global University 
+- **AIshwarya Priyadarshini**  
+  🎓 B.Tech CSE, C.V. Raman Global University  
   📫 [LinkedIn](#) | [GitHub](#)
 
 - **Anu Kumari**  
-  🎓 B.Tech CSE, C.V. Raman Global University
+  🎓 B.Tech CSE, C.V. Raman Global University  
   📫 [LinkedIn](https://www.linkedin.com/in/anu-kumari-4a5594326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/anuverse-tech)
 
 - **Rajeeb Lochan Chand**  
-  🎓 B.Tech CSE, C.V. Raman Global University
+  🎓 B.Tech CSE, C.V. Raman Global University  
   📫 [LinkedIn](#) | [GitHub](#)
-  
+
+---
+
+## 📝 Registration Numbers
+
+| Name                     | Registration Number |
+|--------------------------|------------------|
+| Doyel Mishra             | 527              |
+| AIshwarya Priyadarshini  | 488              |
+| Anu Kumari               | 501              |
+| Rajeeb Lochan Chand      | 545              |
+
 ---
 
 ## 🗂️ Repo Structure (To be created)
