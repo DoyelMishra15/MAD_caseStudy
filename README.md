@@ -49,6 +49,9 @@ This project focuses on creating a mobile app that generates airplane dimensions
 - **AIshwarya Priyadarshini**  
   📫 [LinkedIn](#) | [GitHub](#)
 
+- **Anu Kumari**  
+  📫 [LinkedIn](#) | [GitHub](#)
+
 ---
 
 ## 🗂️ Repo Structure (To be created)
