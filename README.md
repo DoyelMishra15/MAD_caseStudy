@@ -1,47 +1,62 @@
-<h1 align="center">📱 Mobile App Development - Semester Repository</h1>
+<h1 align="center">🚀 Mobile App Development — Semester Repository</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-blue" />
-  <img src="https://img.shields.io/badge/Semester-5th-orange" />
-  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Kotlin-yellow" />
-  <img src="https://img.shields.io/badge/Platform-AndroidStudio-brightgreen" />
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-5th-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Kotlin-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Android%20Studio-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DoyelMishra15/Mobile-App-Development/blob/main/assets/banner.gif" alt="Project Banner" width="80%"/>
 </p>
 
 ---
 
 <p align="center">
-  This repository is dedicated to all case study work, assignments, and development related to the Mobile App Development course for the current semester at <strong>C.V. Raman Global University</strong>.
+  📱 <strong>Mobile App Development Repository</strong><br>
+  This repository contains all assignments, case studies, and projects for the <br>
+  <strong>Mobile App Development</strong> course at <strong>C.V. Raman Global University</strong>.  
 </p>
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
-This repo will serve as a **central hub** for:
-- Project planning & brainstorming  
-- App development (Android - Java/XML or Kotlin)  
-- Weekly logs or updates  
-- Case study report(s)  
-- Screenshots and documentation  
-
----
-
-## Tech Stack
-
-- Languages: Java or Kotlin  
-- UI: XML  
-- IDE: Android Studio  
-- Others: Firebase, SQLite, Git  
+This repo acts as a **central hub** for:
+- 📋 Project planning & brainstorming  
+- 💻 Android app development (Java/XML or Kotlin)  
+- 🗓 Weekly progress logs  
+- 🧾 Case study reports  
+- 📸 Screenshots & documentation  
 
 ---
 
-## Airplane Dimension Generator
+## 🧠 Tech Stack
 
-This project focuses on creating a mobile app that generates airplane dimensions based on user requirements. It also includes 3D visualization of the airplane model, allowing interactive rotation, scaling, and basic animations, giving a game-like experience within the app. The app is developed using Kotlin and Android Studio.
+| Category | Tools |
+|:--|:--|
+| **Languages** | Java • Kotlin |
+| **UI** | XML |
+| **IDE** | Android Studio |
+| **Database / Cloud** | Firebase • SQLite |
+| **Version Control** | Git & GitHub |
 
 ---
 
-## Maintainers
+## ✈️ Project Highlight — *Airplane Dimension Generator*
+
+> A mobile app that generates airplane dimensions based on user requirements, featuring **3D visualization**, interactive rotation, scaling, and simple animations for a **game-like experience**.  
+>  
+> Built with **Kotlin + Android Studio** 🎮
+
+<p align="center">
+  <img src="https://github.com/DoyelMishra15/Mobile-App-Development/blob/main/assets/demo.gif" alt="App Demo" width="70%">
+</p>
+
+---
+
+## 👩‍💻 Maintainers
 
 - **Doyel Mishra**  
   B.Tech CSE, C.V. Raman Global University  
@@ -71,12 +86,12 @@ This project focuses on creating a mobile app that generates airplane dimensions
 | Rajeeb Lochan Chand      | 554              |
 
 ---
-
-## Repo Structure (To be created)
+## 🗂 Repo Structure (Planned)
 
 ```bash
+📦 Mobile-App-Development/
 ├── app/                   # Source code for the mobile app
-├── assets/                # Screenshots, logos, media
-├── docs/                  # Weekly logs, wireframes, etc.
-├── report/                # Final case study report
-├── README.md              # Project info (you’re here!)
+├── assets/                # Screenshots, logos, demo GIFs
+├── docs/                  # Weekly logs, notes, wireframes
+├── report/                # Case study report (PDF/Docs)
+└── README.md              # You're here!
