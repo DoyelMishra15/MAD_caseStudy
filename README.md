@@ -45,7 +45,7 @@ This project focuses on creating a mobile app that generates airplane dimensions
 
 - **Doyel Mishra**  
   🎓 B.Tech CSE, C.V. Raman Global University  
-  📫 [LinkedIn](https://www.linkedin.com/in/doyel-mishra) | [GitHub](https://github.com/doyelmishra)
+  📫 [LinkedIn](www.linkedin.com/in/doyel-mishra-80932128b) | [GitHub](https://github.com/doyelmishra)
 
 - **Aishwarya Priyadarshini**  
   🎓 B.Tech CSE, C.V. Raman Global University  
