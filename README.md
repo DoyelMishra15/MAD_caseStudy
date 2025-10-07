@@ -68,7 +68,7 @@ This project focuses on creating a mobile app that generates airplane dimensions
 | Doyel Mishra             | 527              |
 | Aishwarya Priyadarshini  | 488              |
 | Anu Kumari               | 501              |
-| Rajeeb Lochan Chand      | 545              |
+| Rajeeb Lochan Chand      | 554              |
 
 ---
 
