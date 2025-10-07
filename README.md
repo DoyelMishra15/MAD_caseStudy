@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/DoyelMishra15/Mobile-App-Development/blob/main/assets/banner.gif" alt="Project Banner" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF3dHV5MTRucnY5bzRrb2F5a2h6Z2tydGdpMjJjMXRjY2RuMnkxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Project Banner">
 </p>
 
 ---
@@ -17,6 +17,10 @@
   📱 <strong>Mobile App Development Repository</strong><br>
   This repository contains all assignments, case studies, and projects for the <br>
   <strong>Mobile App Development</strong> course at <strong>C.V. Raman Global University</strong>.  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9urCMAk3SA/giphy.gif" width="200" alt="Flying airplane">
 </p>
 
 ---
@@ -51,7 +55,7 @@ This repo acts as a **central hub** for:
 > Built with **Kotlin + Android Studio** 🎮
 
 <p align="center">
-  <img src="https://github.com/DoyelMishra15/Mobile-App-Development/blob/main/assets/demo.gif" alt="App Demo" width="70%">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60%" alt="App Demo Animation">
 </p>
 
 ---
@@ -76,16 +80,17 @@ This repo acts as a **central hub** for:
 
 ---
 
-## Registration Numbers
+## 🧾 Registration Numbers
 
-| Name                     | Registration Number |
-|--------------------------|------------------|
-| Doyel Mishra             | 527              |
-| Aishwarya Priyadarshini  | 488              |
-| Anu Kumari               | 501              |
-| Rajeeb Lochan Chand      | 554              |
+| Name | Registration Number |
+|------|----------------------|
+| Doyel Mishra | 527 |
+| Aishwarya Priyadarshini | 488 |
+| Anu Kumari | 501 |
+| Rajeeb Lochan Chand | 554 |
 
 ---
+
 ## 🗂 Repo Structure (Planned)
 
 ```bash
