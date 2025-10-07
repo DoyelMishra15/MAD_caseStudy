@@ -42,16 +42,24 @@ This project focuses on creating a mobile app that generates airplane dimensions
 ---
 
 ## 👩‍💻 Maintainers
-- **Doyel Mishra**  
+
+- **Doyel Mishra**
+  
   🎓 B.Tech CSE, C.V. Raman Global University  
   📫 [LinkedIn](https://www.linkedin.com/in/doyel-mishra) | [GitHub](https://github.com/doyelmishra)
 
-- **AIshwarya Priyadarshini**  
+- **AIshwarya Priyadarshini**
+  🎓 B.Tech CSE, C.V. Raman Global University 
   📫 [LinkedIn](#) | [GitHub](#)
 
 - **Anu Kumari**  
+  🎓 B.Tech CSE, C.V. Raman Global University
   📫 [LinkedIn](#) | [GitHub](#)
 
+- **Rajeeb Lochan Chand**  
+  🎓 B.Tech CSE, C.V. Raman Global University 
+  📫 [LinkedIn](#) | [GitHub](#)
+  
 ---
 
 ## 🗂️ Repo Structure (To be created)
